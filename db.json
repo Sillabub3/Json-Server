@@ -1,5 +1,5 @@
 {
-  "Salas de aula":[
+  "salas":[
     {"numero":1, "Pisoid":"1.1", "id":1, "projetor":"sim", "quantidadecarteiras":30, "quantquadrosbrancos": 1},
     {"numero":2, "Pisoid":"1.2", "id":2, "projetor":"sim", "quantidadecarteiras":24, "quantquadrosbrancos": 1},
     {"numero":3, "Pisoid":"1.3", "id":3, "projetor":"nao", "quantidadecarteiras":32, "quantquadrosbrancos": 2},
